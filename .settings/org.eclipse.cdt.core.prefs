@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.87427369/ANDROID_8_ARM/delimiter=;
+environment/project/com.android.toolchain.gcc.87427369/ANDROID_8_ARM/operation=append
+environment/project/com.android.toolchain.gcc.87427369/ANDROID_8_ARM/value=D\:\\android-ndk-r9d\\platforms\\android-8\\arch-arm\\usr\\include
+environment/project/com.android.toolchain.gcc.87427369/append=true
+environment/project/com.android.toolchain.gcc.87427369/appendContributed=true

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout
+     android:id="@+id/header_widget_root"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:orientation="vertical"
+      >
+<!-- 	 <com.xieyuan.test.TileAnimationView 
+	     android:layout_width="fill_parent"
+	     android:layout_height="fill_parent"
+	     /> -->
+	     <TextView 
+	         android:id="@+id/activity_main_text"
+	         android:layout_width="fill_parent"
+	         android:layout_height="wrap_content"
+	         android:text=""	         
+	         />
+	     <Button 
+	         android:layout_width="fill_parent"
+	         android:layout_height="wrap_content"
+	         android:text="sss"
+	         android:onClick="ViewOnClick"
+	         />
+	</LinearLayout>
+    
+   
+</RelativeLayout>

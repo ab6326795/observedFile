@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundView">
+       <attr name="textColor" format="color" />
+       <attr name="bgColor" format="color" />         
+       <attr name="text" format="string" />
+       <attr name="textSize" format="dimension" />
+       <attr name="radius" format="dimension"/>
+       <attr name="bkground1" format = "reference|color"/>
+       <attr name="bkground2" format = "reference|color"/>
+    </declare-styleable>
+</resources>
